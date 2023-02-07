@@ -1,0 +1,152 @@
+.main{
+    height: 60vh;
+    margin-right: 375px;
+    margin-left: 375px;
+    margin-bottom: 123px;
+   
+}
+.container{
+    height: 125%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: rgb(233, 230, 230);
+}
+.contact{
+    height: 15%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px;
+    padding: 10px; */
+    display: flex;
+    flex-direction: row;
+}
+.name{
+    height: 15%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px;  */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.email{
+    height: 15%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.phone{
+    height: 15%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.message{
+    height: 25%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.submit{
+    height: 13.5%;
+    /* border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 1px; */
+    display: flex;
+    flex-direction: row;
+}
+.font{
+    font-size: 20px;
+}
+.name-text{
+    height: 70%;
+    width: 20%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: left;
+}
+.name-box{
+    height: 90%;
+    width: 60%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.email-text{
+    height: 90%;
+    width: 20%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: left;
+}
+.email-box{
+    height: 90%;
+    width: 60%;
+   /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.phone-text{
+    height: 90%;
+    width: 22%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: inherit;
+}
+.phone-box{
+    height: 90%;
+    width: 61%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.message-text{
+    height: 90%;
+    width: 20%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: left;
+}
+.message-box{
+    height: 90%;
+    width: 60%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.submit-1{
+    height: 90%;
+    width: 60%;
+    /* border: 1px solid red;
+    margin: 2px; */
+}
+.submit-2{
+    height: 90%;
+    width: 15%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.submit-3{
+    height: 90%;
+    width: 15%;
+    /* border: 1px solid red;
+    margin: 2px; */
+    text-align: center;
+}
+.contact-text{
+    height: 90%;
+    width: 30%;
+    /* border: 1px solid red;
+    margin: 20px; */
+    text-align: center;
+}

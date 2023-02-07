@@ -1,0 +1,103 @@
+.main{
+    height: 90vh;
+    margin-top: 11px;
+    margin-right: 375px;
+    margin-left: 375px;
+    margin-bottom: 55px;
+   
+}
+.container{
+    height: 100%;
+    width: 100%;
+    border: 3px solid rgb(5, 0, 0);
+    box-sizing: border-box;
+    background-color: rgb(17, 166, 224);
+}
+.container-1{
+    height: 80%;
+    width: 70%;
+    /* box-sizing: border-box; */
+    background-color: beige;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 88px;
+    margin-right: 70px;
+}
+.signup{
+    height: 13%;
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 15px;
+    padding-left: 1px;
+}
+.form{
+    height: 4%;
+    width: 80%;
+    /* box-sizing: border-box;
+    border: 2px solid rgb(19, 15, 233); */
+    margin-left: 20px;
+}
+.name{
+    height: 13%;
+    /* box-sizing: border-box;
+    border: 2px solid red; */
+    margin: 2px;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+    height: 100%;
+    width: 42%;
+    /* border: 2px solid brown;
+    box-sizing: border-box; */
+}
+.last{
+    height: 100%;
+    width: 42%;
+    /* border: 2px solid brown;
+    box-sizing: border-box; */
+}
+.email{
+    height: 13%;
+    /* box-sizing: border-box;
+    border: 2px solid red; */
+    margin-left: 20px;
+}
+.password{
+    height: 13%;
+    /* box-sizing: border-box;
+    border: 2px solid red; */
+    margin-left: 20px;
+}
+.confirm{
+    height: 13%;
+    /* box-sizing: border-box;
+    border: 2px solid red; */
+    margin-left: 20px;
+}
+.accept{
+    height: 4%;
+    /* box-sizing: border-box;
+    border: 2px solid rgb(29, 9, 207); */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sign{
+    height: 13%;
+    /* box-sizing: border-box;
+    border: 2px solid red; */
+    margin-left: 20px;
+    font-size: larger;
+    margin-top: 20px;
+}
+.container-2{
+    height: 5%;
+    /* border: 2px solid black;
+    box-sizing: border-box; */
+    text-align: center;
+}
